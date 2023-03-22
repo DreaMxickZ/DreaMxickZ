@@ -7,6 +7,7 @@ SoftDev and HardWare IOT
 I study at King mongkut's institute of technology ladkrabang
 
 * 🌍  I'm based in I'm based in Phuket, Thailand
+* 📚  I'm Learning Computer Engineer At KMITL
 * 🖥️  See my portfolio at [My Port](http://portfolio-4d99cb.webflow.io/)
 * ✉️  You can contact me at [zanookdeel@gmail.com](mailto:zanookdeel@gmail.com)
 
