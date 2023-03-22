@@ -19,11 +19,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/veerapod chuchat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="veerapod chuchat" height="30" width="40" /></a>
-<a href="https://fb.com/veerapod chuchat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="veerapod chuchat" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/veerapod-chuchat-137a3b245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="veerapod chuchat" height="30" width="40" /></a>
+<a href="https://fb.com/dreamxickz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="veerapod chuchat" height="30" width="40" /></a>
 <a href="https://instagram.com/dreamxickz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dreamxickz" height="30" width="40" /></a>
 <a href="https://medium.com/@zanookdeel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zanookdeel" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/dreamxickz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dreamxickz" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC0BSQ27I8edi3u4_H_yK3PA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dreamxickz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
