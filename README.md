@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently learning on **KMITL**
 
-- 🌱 I’m currently learning **Ionic , React**
+- 🌱 I’m currently learning **Ionic , Angular**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-4d99cb.webflow.io/](https://portfolio-4d99cb.webflow.io/)
 
