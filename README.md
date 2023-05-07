@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm NOOK</h1>
-<h3 align="center">A passionate Hardware IOT from Thailand</h3>
+<h3 align="center">A passionate Hardware IOT </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dreamxickz&label=Profile%20views&color=0e75b6&style=flat" alt="dreamxickz" /> </p>
 
