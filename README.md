@@ -9,11 +9,11 @@
 
 - 💻 Major in [Computer Engineering](https://ce.kmitl.ac.th/)
 
-- 🌱 I’m currently learning **Ionic , Angular**
+- 🌱 I’m currently learning **Ionic , Angular , React**
 
 - 👨‍💻 All of my projects are available at [MyPort](https://portfolio-4d99cb.webflow.io/)
 
-- 💬 Ask me about **IOT , Application**
+- 💬 Ask me about **IOT , Application , Web Application**
 
 - 📫 How to reach me **zanookdeel@gmail.com**
 
